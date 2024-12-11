@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "calico")(type "KiCad")(uri "${KIPRJMOD}/calico.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "calico")(type "KiCad")(uri "/Users/kevin/work/calico/libraries/calico.pretty")(options "")(descr ""))
+)
