@@ -3285,7 +3285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tree:ProMicro"
+		(property "Footprint" "calico:ProMicro_jumpers"
 			(at 209.55 38.1 0)
 			(effects
 				(font
@@ -7240,7 +7240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "calico:TRRS-3pin"
+		(property "Footprint" "calico:TRRS-3pin_modified"
 			(at 217.805 92.075 0)
 			(effects
 				(font
@@ -7469,7 +7469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "calico:Reset"
+		(property "Footprint" "calico:Reset_modified"
 			(at 259.08 39.37 0)
 			(effects
 				(font

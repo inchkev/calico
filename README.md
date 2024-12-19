@@ -6,6 +6,14 @@ calico is a 54 key (6x4+3 split) column-staggered choc-spaced split ergonomic ke
 * reversible
 * hotswap only, for now
 
+### v0.2
+
+changes
+* bring trrs jack all the way to the edge
+* bring pro micro down a bit, close gap with trrs
+* modify footprints for reset, trrs
+* use different footprint for the pro micro
+
 ### v0.1
 
 ![left-side (front) view](left.png)
