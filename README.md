@@ -8,6 +8,9 @@ calico is a 54 key (6x4+3 split) column-staggered choc-spaced split ergonomic ke
 
 ### v0.2
 
+![left-side (front) view](left.png)
+![right-side (back) view](right.png)
+
 changes
 * bring trrs jack all the way to the edge
 * bring pro micro down a bit, close gap with trrs
@@ -16,8 +19,7 @@ changes
 
 ### v0.1
 
-![left-side (front) view](left.png)
-![right-side (back) view](right.png)
+![photo of pcb oriented to show the left side](img/photo-0.1.jpg)
 
 ### calico was inspired by
 
