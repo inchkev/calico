@@ -3,7 +3,7 @@
 calico is a 54 key (6x4+3 split) column-staggered choc-spaced split ergonomic keyboard with freehanded traces and diode sprinkles
 
 * pro micro based
-* reversible
+* reversible pcb
 * choc v1 hotswap only
 
 ![holding calico](cover.jpg)
