@@ -19,5 +19,10 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
-.DS_Store
+sym-lib-table
+fp-lib-table
+kbplacer.log
+*.round-tracks-config
 
+.DS_Store
+ignore
