@@ -55,3 +55,7 @@ I'd also recommend socketing your pro micros:
 
 * [ergogen](https://github.com/ergogen/ergogen)
 * [kicad-kbplacer](https://github.com/adamws/kicad-kbplacer/tree/master)
+
+### and licensed under
+
+[CERN-OHL-W-2.0](https://spdx.org/licenses/CERN-OHL-W-2.0.html) overall. calico uses footprints, modified and unmodified, under different licenses. see [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
